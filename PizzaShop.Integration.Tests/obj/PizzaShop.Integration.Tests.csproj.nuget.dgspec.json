@@ -1,0 +1,428 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Integration.Tests\\PizzaShop.Integration.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Aplication\\PizzaShop.Aplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Aplication\\PizzaShop.Aplication.csproj",
+        "projectName": "PizzaShop.Aplication",
+        "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Aplication\\PizzaShop.Aplication.csproj",
+        "packagesPath": "C:\\Users\\JuanKmilo65\\.nuget\\packages\\",
+        "outputPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Aplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JuanKmilo65\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://myget.org/F/aspnetwebstacknightly": {},
+          "http://reactjs.net/packages/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/blazor-dev/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {
+                "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Domain\\PizzaShop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Domain\\PizzaShop.Domain.csproj",
+        "projectName": "PizzaShop.Domain",
+        "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Domain\\PizzaShop.Domain.csproj",
+        "packagesPath": "C:\\Users\\JuanKmilo65\\.nuget\\packages\\",
+        "outputPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JuanKmilo65\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://myget.org/F/aspnetwebstacknightly": {},
+          "http://reactjs.net/packages/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/blazor-dev/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.Data\\PizzaShop.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.Data\\PizzaShop.Infrastructure.Data.csproj",
+        "projectName": "PizzaShop.Infrastructure.Data",
+        "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.Data\\PizzaShop.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\JuanKmilo65\\.nuget\\packages\\",
+        "outputPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JuanKmilo65\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://myget.org/F/aspnetwebstacknightly": {},
+          "http://reactjs.net/packages/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/blazor-dev/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {
+                "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Domain\\PizzaShop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.IoC\\PizzaShop.Infrastucture.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.IoC\\PizzaShop.Infrastucture.IoC.csproj",
+        "projectName": "PizzaShop.Infrastucture.IoC",
+        "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.IoC\\PizzaShop.Infrastucture.IoC.csproj",
+        "packagesPath": "C:\\Users\\JuanKmilo65\\.nuget\\packages\\",
+        "outputPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JuanKmilo65\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://myget.org/F/aspnetwebstacknightly": {},
+          "http://reactjs.net/packages/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/blazor-dev/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Aplication\\PizzaShop.Aplication.csproj": {
+                "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Aplication\\PizzaShop.Aplication.csproj"
+              },
+              "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.Data\\PizzaShop.Infrastructure.Data.csproj": {
+                "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.Data\\PizzaShop.Infrastructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Integration.Tests\\PizzaShop.Integration.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Integration.Tests\\PizzaShop.Integration.Tests.csproj",
+        "projectName": "PizzaShop.Integration.Tests",
+        "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Integration.Tests\\PizzaShop.Integration.Tests.csproj",
+        "packagesPath": "C:\\Users\\JuanKmilo65\\.nuget\\packages\\",
+        "outputPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Integration.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JuanKmilo65\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://myget.org/F/aspnetwebstacknightly": {},
+          "http://reactjs.net/packages/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/blazor-dev/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Services\\PizzaShop.Api.csproj": {
+                "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Services\\PizzaShop.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Services\\PizzaShop.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Services\\PizzaShop.Api.csproj",
+        "projectName": "PizzaShop.Api",
+        "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Services\\PizzaShop.Api.csproj",
+        "packagesPath": "C:\\Users\\JuanKmilo65\\.nuget\\packages\\",
+        "outputPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JuanKmilo65\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://myget.org/F/aspnetwebstacknightly": {},
+          "http://reactjs.net/packages/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/blazor-dev/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Aplication\\PizzaShop.Aplication.csproj": {
+                "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Aplication\\PizzaShop.Aplication.csproj"
+              },
+              "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.IoC\\PizzaShop.Infrastucture.IoC.csproj": {
+                "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.IoC\\PizzaShop.Infrastucture.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

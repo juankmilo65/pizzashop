@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PizzaShop.Api</name>
+    </assembly>
+    <members>
+        <member name="M:PizzaShop.Api.Controllers.ToppingController.Get">
+            <summary>
+            Test method to check if service is running.
+            </summary>
+            <returns>String "Services Ok".</returns>
+        </member>
+        <member name="M:PizzaShop.Api.Controllers.ToppingController.GetRanking(System.Int32,System.Int32)">
+            <summary>
+            Method to get paginated toppings.
+            </summary>
+            <param name="pageIndex">Current page.</param>
+            <param name="pageSize">Listing size.</param>
+            <returns>Ranking toppings listing by page.</returns>
+        </member>
+    </members>
+</doc>

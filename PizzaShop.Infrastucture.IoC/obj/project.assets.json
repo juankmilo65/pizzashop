@@ -1,0 +1,206 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.6": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "PizzaShop.Aplication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PizzaShop.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PizzaShop.Aplication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaShop.Aplication.dll": {}
+        }
+      },
+      "PizzaShop.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PizzaShop.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaShop.Domain.dll": {}
+        }
+      },
+      "PizzaShop.Infrastructure.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "PizzaShop.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PizzaShop.Infrastructure.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaShop.Infrastructure.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.6": {
+      "sha512": "JVlypPjlPqOEyAhET6pA7TqrK+Ya8TrYe2vvqsp62TYKS87oNuReoS7XpDFW0rrOsQo66G1yYf3K0E+lJHFHuw==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "PizzaShop.Aplication/1.0.0": {
+      "type": "project",
+      "path": "../PizzaShop.Aplication/PizzaShop.Aplication.csproj",
+      "msbuildProject": "../PizzaShop.Aplication/PizzaShop.Aplication.csproj"
+    },
+    "PizzaShop.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PizzaShop.Domain/PizzaShop.Domain.csproj",
+      "msbuildProject": "../PizzaShop.Domain/PizzaShop.Domain.csproj"
+    },
+    "PizzaShop.Infrastructure.Data/1.0.0": {
+      "type": "project",
+      "path": "../PizzaShop.Infrastucture.Data/PizzaShop.Infrastructure.Data.csproj",
+      "msbuildProject": "../PizzaShop.Infrastucture.Data/PizzaShop.Infrastructure.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 3.1.6",
+      "PizzaShop.Aplication >= 1.0.0",
+      "PizzaShop.Infrastructure.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\JuanKmilo65\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.IoC\\PizzaShop.Infrastucture.IoC.csproj",
+      "projectName": "PizzaShop.Infrastucture.IoC",
+      "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.IoC\\PizzaShop.Infrastucture.IoC.csproj",
+      "packagesPath": "C:\\Users\\JuanKmilo65\\.nuget\\packages\\",
+      "outputPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.IoC\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\JuanKmilo65\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://myget.org/F/aspnetwebstacknightly": {},
+        "http://reactjs.net/packages/": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnet.myget.org/F/blazor-dev/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Aplication\\PizzaShop.Aplication.csproj": {
+              "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Aplication\\PizzaShop.Aplication.csproj"
+            },
+            "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.Data\\PizzaShop.Infrastructure.Data.csproj": {
+              "projectPath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.Data\\PizzaShop.Infrastructure.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "target": "Package",
+            "version": "[3.1.6, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

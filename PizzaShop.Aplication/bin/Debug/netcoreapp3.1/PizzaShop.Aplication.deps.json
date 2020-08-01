@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PizzaShop.Aplication/1.0.0": {
+        "dependencies": {
+          "PizzaShop.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PizzaShop.Aplication.dll": {}
+        }
+      },
+      "PizzaShop.Domain/1.0.0": {
+        "runtime": {
+          "PizzaShop.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzaShop.Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaShop.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

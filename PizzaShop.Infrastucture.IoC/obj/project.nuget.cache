@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IgsDAeWjG9Q3GLgr1sbR/VDpJf/jB7Vg7JI8kUJTMiv91Sckvln4CynHEdE2NjQ/76nFMEMksezE3uX88LRWhw==",
+  "success": true,
+  "projectFilePath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.IoC\\PizzaShop.Infrastucture.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JuanKmilo65\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\JuanKmilo65\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

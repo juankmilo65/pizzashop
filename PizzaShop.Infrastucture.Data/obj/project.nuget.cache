@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LrS+YcD0kUKqHabrr1/rWN/KKoWMFsSB1mSIp/T2KMFZmT4SKiTlAq5S8sxMS9/YwOFZCPgjr7eSsDYEdP3htw==",
+  "success": true,
+  "projectFilePath": "D:\\Trabajo\\XNerdRecovery\\PizzaShop\\PizzaShop.Infrastucture.Data\\PizzaShop.Infrastructure.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JuanKmilo65\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Domain\bin\Debug\netcoreapp3.1\PizzaShop.Domain.deps.json
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Domain\bin\Debug\netcoreapp3.1\PizzaShop.Domain.dll
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Domain\bin\Debug\netcoreapp3.1\PizzaShop.Domain.pdb
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Domain\obj\Debug\netcoreapp3.1\PizzaShop.Domain.AssemblyInfoInputs.cache
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Domain\obj\Debug\netcoreapp3.1\PizzaShop.Domain.AssemblyInfo.cs
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Domain\obj\Debug\netcoreapp3.1\PizzaShop.Domain.csproj.CoreCompileInputs.cache
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Domain\obj\Debug\netcoreapp3.1\PizzaShop.Domain.dll
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Domain\obj\Debug\netcoreapp3.1\PizzaShop.Domain.pdb
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Domain\obj\Debug\netcoreapp3.1\PizzaShop.Domain.csprojAssemblyReference.cache

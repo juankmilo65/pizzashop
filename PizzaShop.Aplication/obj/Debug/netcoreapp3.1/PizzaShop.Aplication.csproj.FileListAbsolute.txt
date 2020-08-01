@@ -1,0 +1,12 @@
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Aplication\bin\Debug\netcoreapp3.1\PizzaShop.Aplication.deps.json
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Aplication\bin\Debug\netcoreapp3.1\PizzaShop.Aplication.dll
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Aplication\bin\Debug\netcoreapp3.1\PizzaShop.Aplication.pdb
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Aplication\bin\Debug\netcoreapp3.1\PizzaShop.Domain.dll
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Aplication\bin\Debug\netcoreapp3.1\PizzaShop.Domain.pdb
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Aplication\obj\Debug\netcoreapp3.1\PizzaShop.Aplication.csprojAssemblyReference.cache
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Aplication\obj\Debug\netcoreapp3.1\PizzaShop.Aplication.AssemblyInfoInputs.cache
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Aplication\obj\Debug\netcoreapp3.1\PizzaShop.Aplication.AssemblyInfo.cs
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Aplication\obj\Debug\netcoreapp3.1\PizzaShop.Aplication.csproj.CoreCompileInputs.cache
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Aplication\obj\Debug\netcoreapp3.1\PizzaShop.Aplication.csproj.CopyComplete
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Aplication\obj\Debug\netcoreapp3.1\PizzaShop.Aplication.dll
+D:\Trabajo\XNerdRecovery\PizzaShop\PizzaShop.Aplication\obj\Debug\netcoreapp3.1\PizzaShop.Aplication.pdb
